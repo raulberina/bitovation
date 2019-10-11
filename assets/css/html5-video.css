@@ -1,0 +1,174 @@
+video {
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  display: none;
+}
+
+.footer {
+  height: 100px;
+  background-color: #ff7b0f;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#video_ovato {
+  margin: 20px 0px;
+  background-color: #ccc;
+}
+
+#rules {
+  margin: 20px 0px;
+  padding: 10px;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+#main-ads h1 {
+  color: #fff;
+}
+
+#plain {
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+#plain {
+  padding: 0px 0px !important;
+}
+
+#plain_part_2 {
+  padding: 0px;
+  margin-top: -32px;
+}
+
+#brazil {
+  padding: 0px;
+}
+
+#main-ads .jumbotron h1 {
+  font-weight: 300;
+}
+
+#main-ads .jumbotron strong {
+  font-weight: normal;
+}
+
+#signup {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+.signup2 {
+  font-size: 2.3em;
+  font-weight: 300;
+}
+
+#video-ovato {
+  background: url(../../assets/img/bannervidpanelgirl.png) no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 18%;
+  background-position: center;
+  margin-top: -30px;
+}
+
+.jumbotron.blank {
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+.jumbotron.blank h1 {
+  color: white;
+  font-weight: 300;
+}
+
+#nav_contest {
+  box-shadow: rgba(0,0,0,.34) 0 0 4px;
+  background-color: #fff;
+}
+
+#logo {
+  width: 180px;
+}
+
+#divbrazil {
+  margin-top: -30px;
+}
+
+#nav_contest li.rig a:hover {
+  font-size: 13px;
+  color: #f59607;
+}
+
+#nav_contest li a:hover {
+  font-size: 13px;
+  color: #ff910c;
+}
+
+#nav_contest li.reg a {
+  font-size: 13px;
+  color: #ff910c;
+}
+
+#nav_contest li.reg a {
+  font-size: 13px;
+  padding: 10px 7px;
+  border: #ff8b0d solid 1px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 12px;
+}
+
+#nav_contest li .reg a {
+}
+
+#nav_contest li.rig a {
+  font-size: 13px;
+  color: #ff910c;
+}
+
+#nav_contest li a {
+  font-size: 13px;
+  color: #000;
+}
+
+#reg li a {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: Poppins,sans-serif!important;
+  list-style: none;
+  font-size: 13px;
+  box-sizing: inherit;
+  cursor: pointer;
+  background-color: transparent;
+  color: #000;
+  text-decoration: none;
+  margin: 0!important;
+  padding: 10px 7px;
+  border: #ff8b0d solid 1px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+#reg a:hover {
+  background-color: #ff910c;
+}
+
+#reg {
+}
+
+.nav-item li.rig a {
+  background-color: blue;
+}
+
+.reg {
+  padding: 10px 7px;
+  border: #ff8b0d solid 1px;
+  border-radius: 10px;
+  display: inline-block;
+}
+

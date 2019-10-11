@@ -1,0 +1,77 @@
+#headerimg {
+  text-align: center;
+  padding: 10px 10px;
+  box-shadow: rgba(0,0,0,.34) 0 0 4px;
+}
+
+@media (max-width: 576px) {
+  #main-ads {
+    text-align: center;
+    padding: 40px;
+    background: url(../../assets/img/bitovation_dance_contest.png) no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+  }
+}
+
+#main-ads {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/bitovation_dance_contest.png) no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  height: calc(var(--vh, 1vh) * 50);
+  margin: 20px 0px;
+  background-position: center top;
+}
+
+#main-ads .jumbotron {
+  background-color: rgba(68,67,67,0.75);
+}
+
+#blueplain {
+  height: auto;
+}
+
+@media (max-width: 576px) {
+  #blueplain {
+    height: 100%;
+  }
+}
+
+#spacer-plain {
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.0);
+}
+
+.display-3 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.signup {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  box-shadow: rgba(0,0,0,.34) 0 0 4px;
+  background-color: #ffbb02;
+  border: none !important;
+}
+
+.modal-dialog{
+  max-width: 900px !important;
+}
+
+
+a:hover.nav-link.reg {
+    background-color: #ff7b0f;
+    color: #ffffff !important;
+}
