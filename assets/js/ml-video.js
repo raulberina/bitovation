@@ -3,7 +3,7 @@
             var vplayer = document.querySelectorAll(".vplayer");
 
             for (var i = 0; i < vplayer.length; i++) {
-                console.log(vplayer[i].dataset.v);
+                //console.log(vplayer[i].dataset.v);
                 var source = "https://img.youtube.com/vi/" + vplayer[i].dataset.v + "/sddefault.jpg";
 
                 var image = new Image();
