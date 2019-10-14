@@ -75,3 +75,7 @@ a:hover.nav-link.reg {
     background-color: #ff7b0f;
     color: #ffffff !important;
 }
+
+.footer p{
+  margin-top: 6%;
+}
