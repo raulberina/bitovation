@@ -106,11 +106,13 @@ video {
 #nav_contest li a:hover {
   font-size: 13px;
   color: #ff910c;
+  border-top: solid 1px #ff910c;
 }
 
 #nav_contest li.reg a {
   font-size: 13px;
   color: #ff910c;
+  border-top: solid 1px #ff910c;
 }
 
 #nav_contest li.reg a {
@@ -133,42 +135,34 @@ video {
 #nav_contest li a {
   font-size: 13px;
   color: #000;
-}
-
-#reg li a {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  font-weight: 400;
-  line-height: 1.5;
-  font-family: Poppins,sans-serif!important;
-  list-style: none;
-  font-size: 13px;
-  box-sizing: inherit;
-  cursor: pointer;
-  background-color: transparent;
-  color: #000;
-  text-decoration: none;
-  margin: 0!important;
-  padding: 10px 7px;
-  border: #ff8b0d solid 1px;
-  border-radius: 10px;
-  display: inline-block;
-}
-
-#reg a:hover {
-  background-color: #ff910c;
-}
-
-#reg {
-}
-
-.nav-item li.rig a {
-  background-color: blue;
+  border-top: solid 1px #fff;
 }
 
 .reg {
-  padding: 10px 7px;
+  padding: 7px 7px;
   border: #ff8b0d solid 1px;
+  border-top: #ff8b0d solid 1px !important;
   border-radius: 10px;
   display: inline-block;
 }
 
+i.fa.fa-facebook{
+  color: #3a589e !important;
+}
+
+i.fa.fa-twitter{
+  color: #26abe1 !important;
+}
+
+
+i.fa.fa-youtube-play{
+  color: #ed2024!important;
+}
+
+i.fa.fa-linkedin{
+  color: #0976b6!important  
+}
+
+i.fa.fa-instagram {
+   color: violet !important   
+}
