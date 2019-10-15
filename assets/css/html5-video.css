@@ -54,7 +54,7 @@ video {
 }
 
 #main-ads .jumbotron strong {
-  font-weight: normal;
+  font-weight: 600 !important;
 }
 
 #signup {

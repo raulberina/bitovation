@@ -58,12 +58,21 @@
 }
 
 .signup {
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2;
-  box-shadow: rgba(0,0,0,.34) 0 0 4px;
-  background-color: #ffbb02;
+  color: #fff;
+  background-color: #f6b805;
+  transition: background-color 0.5s ease;
+  padding: 10px 15px;
+  margin: 0 5px;  
+  text-decoration: none;
+  box-shadow: 2px 5px 8px #888888;
+  border-radius: 10px;
   border: none !important;
+  font-size: 30px;  
+}
+
+
+.signup:hover {
+  background-color: #FE4A49;!important;
 }
 
 .modal-dialog{
