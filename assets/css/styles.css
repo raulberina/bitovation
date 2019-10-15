@@ -26,8 +26,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
-  height: calc(var(--vh, 1vh) * 50);
+  height: 85vh;
+  height: calc(var(--vh, 1vh) * 85);
   margin: 20px 0px;
   background-position: center top;
 }
