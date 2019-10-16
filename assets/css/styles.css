@@ -29,7 +29,7 @@
   height: 85vh;
   height: calc(var(--vh, 1vh) * 85);
   margin: 20px 0px;
-  background-position: center top;
+  background-position: center;
 }
 
 #main-ads .jumbotron {
