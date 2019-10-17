@@ -32,6 +32,20 @@
   background-position: center;
 }
 
+#main-ads2 {
+  text-align: center;
+  padding: 0px;  
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+  margin: 20px 0px;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  margin-bottom: -20px;
+}
+
 #main-ads .jumbotron {
   background-color: rgba(68,67,67,0.75);
 }
