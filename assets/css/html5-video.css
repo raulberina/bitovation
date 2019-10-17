@@ -2,7 +2,7 @@ video {
   max-width: 100%;
   height: auto;
   width: 100%;
-  display: none;
+  display: block;
 }
 
 .footer {
@@ -68,12 +68,15 @@ video {
 }
 
 #video-ovato {
+  text-align: center;  
+  margin-top: -30px;
+  margin-bottom: 33px;
+  /*
   background: url(../../assets/img/cat-dance.jpg) no-repeat;
   background-size: cover;
-  text-align: center;
-  padding-top: 18%;
   background-position: center;
-  margin-top: -30px;
+  padding-top: 18%;
+  */
 }
 
 .jumbotron.blank {
