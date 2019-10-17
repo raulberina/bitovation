@@ -68,7 +68,7 @@ video {
 }
 
 #video-ovato {
-  background: url(../../assets/img/bannervidpanelgirl.png) no-repeat;
+  background: url(../../assets/img/cat-dance.jpg) no-repeat;
   background-size: cover;
   text-align: center;
   padding-top: 18%;
@@ -81,8 +81,8 @@ video {
 }
 
 .jumbotron.blank h1 {
-  color: white;
-  font-weight: 300;
+  color: black;
+  font-weight: normal;
 }
 
 #nav_contest {
