@@ -83,10 +83,10 @@ video {
   text-align: center;  
   margin-top: -30px;
   margin-bottom: 33px;
-  background: url(../../assets/img/bannervidpanelgirl.png) no-repeat;
+  background: url(../../assets/img/bitovation_dance_contest2.png) no-repeat;
   background-size: cover;
   background-position: center;
-  padding-top: 18%;
+  padding-top: 25%;
 }
 
 .jumbotron.blank {
@@ -101,7 +101,7 @@ video {
 }
 
 .jumbotron.blank2 h1 {
-  color: white;
+  color: black;
   font-weight: normal;
 }
 
